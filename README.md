@@ -7,7 +7,7 @@ Input example
 50 STOP
 
 use:
-1) C:\>c1.py <input file name>
+1) C:\>c1.py "input file name"
     - ex. C:\>c1.py INPUT.txt
     - get output on screen and output file MyBCODE.txt
     - seperate parsing and converting
@@ -15,7 +15,7 @@ use:
         10 A = 1 20 A = A - 1 30 PRINT A 40 STOP
         It doesn’t work
 
-2) C:\>c2.py <input file name>
+2) C:\>c2.py "input file name"
     - ex. C:\>c2.py INPUT.txt
     - get output on screen and output file MyBCODE.txt
     - parsing and converting at the same time
